@@ -1,0 +1,6 @@
+{
+  "name": "CyberShield Edu",
+  "description": "Plataforma de educación en ciberseguridad y protección digital para estudiantes universitarios y personal académico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
